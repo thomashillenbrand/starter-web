@@ -6,6 +6,8 @@ This repository is for showing how Git and GitHub work
 
 MORE TEXT FOR REBASING
 
+<<MORE CHANGES FROM myfeature BRANCH>>
+
 
 Sample website with plenty of files for demos
 
